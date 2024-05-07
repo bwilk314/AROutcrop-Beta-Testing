@@ -1,0 +1,12 @@
+﻿File Name	Model Title	Target Image	Image Width	Placement Mode	Latitude	Longitude	Info
+Pahoehoe_p142.usdz	Pahoehoe	Pahoehoe_p142.heic	5	Plane	0	0	Marshak book demo.
+RipplesFlutes_p201.usdz	Ripples & Flutes	RipplesFlutes_p201.heic	5	Plane	0	0	Marshak book demo.
+FoldHingeLimbs_p317.usdz	Fold Hinge & Limbs	FoldHingeLimbs_p317.heic	5	Plane	0	0	Marshak book demo.
+Fold_p318.usdz	Sliced Asymmetric Fold	Fold_p318.heic	5	Plane	0	0	Marshak book demo.
+FoldedLimestone_p319.usdz	Folded Limestone	FoldedLimestone_p319.heic	5	Plane	0	0	Marshak book demo.
+BandedIronFM_p381.usdz	Banded Iron Fm (BIF)	BandedIronFM_p381.heic	5	Plane	0	0	Marshak book demo.
+Stalactite_p554.usdz	Stalactite	Stalactite_p554.heic	5	Plane	0	0	Marshak book demo.
+NPQuarryWall.usdz	Nature Park Quarry Wall	NPQuarryWall.JPG	10	Overlay	39.629	-86.884	The DePauw University Nature Park exposes the Mississippian Ste. Genevieve and St. Louis Limestones.  These limestones contain numerous shallow marine fossils and one formation exhibits prominent cross-beds.
+VanHiseRock.usdz	Van Hise Rock	VanHiseRock.png	10	Overlay	43.489	-89.916	"Van Hise Rock is an outcrop of Baraboo Quartzite exposed in Ableman's Gorge near Rock Springs, WI. This classic exposure not only captures the near-vertical nature of the north limb of the regional Baraboo Syncline, but also illustrates the cleavage refraction that occurs between the competent quartzite (light color) and the more incompetent phyllite (dark color) due to shear between the rock layers."
+CaglesMill.usdz	Cagle's Mill	NA	NA	Plane	39.481	-86.915	The Cagle’s Mill spillway outcrop exposes Kansan and Illinoisan glacial deposits underlain by a stacked sequence of sandstone channels with interbedded shale layers of the Early Pennsylvanian Mansfield Formation.  A large channel cuts through the exposure and contains sedimentary layers consistent with a meander cut-off forming an ox-bow lake.
+Trilobite.usdz	Trilobite Fossil	NA	NA	Plane	0	0	Trilobites were marine arthropods that originated in the early Cambrian Period and disappeared at the end of the Permian Period during the Permian Extinction.   
